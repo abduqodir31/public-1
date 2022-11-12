@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+   background-color:lightcoral
+   
+}    
+.bump{
+    background-color: aliceblue;
+    list-style: none;
+    font-size: 23px;
+}
+.tipe{
+    font-size: 30px;
+}
+.walk{
+    font-size: 18px;
+}
+.list{
+    color: lightcoral;
+    font-size: 15px;
+
+}
+.pc{
+    background-color: aliceblue;
+    list-style: none;
+    font-size: 23px;
+}
+.dont{
+    font-size: 30px;
+}
+.try{
+    font-size: 18px;
+}
+.nice{
+    color: lightcoral;
+    font-size: 15px;
+}
+.dance{
+    background-color: aliceblue;
+    list-style: none;
+}
+.well{
+    font-size: 30px;
+}
+.ride{
+    font-size: 18px;
+}
+.water{
+color: lightcoral;
+font-size: 15px;
+}
+.ring{
+    font-size: 25px;
+    background-color: aliceblue;
+}
+.obj{
+    color: aliceblue;
+}
